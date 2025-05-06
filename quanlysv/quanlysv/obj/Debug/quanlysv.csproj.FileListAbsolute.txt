@@ -1,0 +1,12 @@
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.csproj.AssemblyReference.cache
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.Form1.resources
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.Properties.Resources.resources
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.csproj.GenerateResource.cache
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.csproj.CoreCompileInputs.cache
+C:\Users\zr\source\repos\quanlysv\quanlysv\bin\Debug\quanlysv.exe.config
+C:\Users\zr\source\repos\quanlysv\quanlysv\bin\Debug\quanlysv.exe
+C:\Users\zr\source\repos\quanlysv\quanlysv\bin\Debug\quanlysv.pdb
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.exe
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.pdb
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.Form2.resources
+C:\Users\zr\source\repos\quanlysv\quanlysv\obj\Debug\quanlysv.Form3.resources

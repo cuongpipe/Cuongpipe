@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTNV quán ăn", "QLTNV quán ăn\QLTNV quán ăn.csproj", "{FEACFD45-8F53-4840-9FA6-9EDD606957EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEACFD45-8F53-4840-9FA6-9EDD606957EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEACFD45-8F53-4840-9FA6-9EDD606957EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEACFD45-8F53-4840-9FA6-9EDD606957EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEACFD45-8F53-4840-9FA6-9EDD606957EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BB8DC4-2F8E-490B-A8A8-C5E88F792E7F}
+	EndGlobalSection
+EndGlobal

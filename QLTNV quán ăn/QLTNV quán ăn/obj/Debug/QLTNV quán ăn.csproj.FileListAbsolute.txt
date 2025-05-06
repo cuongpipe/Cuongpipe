@@ -1,0 +1,11 @@
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\bin\Debug\QLTNV quán ăn.exe.config
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\bin\Debug\QLTNV quán ăn.exe
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\bin\Debug\QLTNV quán ăn.pdb
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV quán ăn.csproj.AssemblyReference.cache
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV_quán_ăn.Form1.resources
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV_quán_ăn.Properties.Resources.resources
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV quán ăn.csproj.GenerateResource.cache
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV quán ăn.csproj.CoreCompileInputs.cache
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV quán ăn.exe
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV quán ăn.pdb
+C:\Users\Cuong Le\Desktop\C# winform\QLNV-quanan\QLTNV quán ăn\QLTNV quán ăn\obj\Debug\QLTNV_quán_ăn.frmHome.resources

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\qlcb\qlcb\bin\Debug\qlcb.exe.config
+C:\Users\Admin\source\repos\qlcb\qlcb\bin\Debug\qlcb.exe
+C:\Users\Admin\source\repos\qlcb\qlcb\bin\Debug\qlcb.pdb
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.Form1.resources
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.Properties.Resources.resources
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.exe
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.pdb
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.Form2.resources
+C:\Users\Admin\source\repos\qlcb\qlcb\obj\Debug\qlcb.Form3.resources

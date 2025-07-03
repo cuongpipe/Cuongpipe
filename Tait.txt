@@ -1,0 +1,172 @@
+1/ 
+Topic "Giới thiệu về bản thân", gồm các nội dung cơ bản sau:
+Chào hỏi cơ bản
+Thông tin cơ bản về bản thân
+Chuyên ngành học
+Tính cách, sở thích
+
+Hello everyone! My name is Cuong. It's a pleasure to meet you all!
+I’m currently studying IT. I find it both interesting and challenging, and I really enjoy exploring new technologies and applying them to real-world problems.
+I am a kind, friendly, and easygoing person. In my free time, I love listening to US-UK music, going for a run, and watching horror movies. These activities help me relax and recharge after a long day.
+That’s all about me. Thank you, teacher.
+// nói với cả lớp
+That’s all about me. Thank you for listening!
+
+2/ 
+Topic : giới thiệu về nghề
+nghiệp (mơ ước) trong tương lai (sau khi ra trường)
+Nghề nghiệp, vị trí làm việc, loại công ty làm việc
+Các yêu cầu cần phải có của nghề nghiệp đó (kiến thức, kỹ năng mềm)
+Tại sao lại thích nghề/vị trí việc làm đó
+
+After graduation, I want to be a Software Engineer and work for a Vietnamese software company like FPT Software, VNG. 
+My job will focus on developing software using Java and related technologies.
+To succeed, I need strong Java programming skills, knowledge of OOP, databases, and software architecture. Besides technical skills, problem-solving, teamwork, communication, time management, and adaptability are also essential.
+I love this career because I enjoy creating software that solves real-life problems. It also offers a high salary, great career opportunities, and a dynamic working environment, which makes it even more exciting for me.
+
+
+3/ 
+Topic: giới thiệu về một môn học/chủ
+đề học mà em yêu thích/đam mê/hoặc cảm thấy quan trọng
+Tên học phần, loại học phần, học trong học kỳ nào
+Sẽ học những nội dung gì
+Nêu những lý do mà e yêu thích/đam mê học phần đó, hoặc lý do vì sao học phần đó quan trọng với em
+Những nội dung đó sẽ phục vụ gì cho nghề nghiệp tương lai của em?
+Em sẽ học nó như thế nào?
+
+The subject I love is Web Application Programming, a specialized subject studied in semester 4. 
+
+This subject helps me become proficient in HTML, CSS, and PHP, and gain a better understanding of how a website works, allowing me to build and develop a complete website.
+I like this subject because it is the first time I can create my own website, which gives me a feeling of excitement and accomplishment.
+Web development is an essential skill for a software engineer because software engineers often need to know web development, enabling me to create practical products for my future work.
+I will learn all the knowledge from the class and also study additional resources like the internet to improve my programming skills.
+I will practice with small personal projects first and participate in group projects to enhance my programming skills.
+
+
+
+4/ 
+Topic: thực tập nhận thức 
+Mô tả về chuyến đi thực tập vừa rồi (nơi đến, các công ty nào, đã chuẩn bị những gì trước khi đi...)
+Em đã thu được gì từ các chuyến thăm mỗi công ty.
+Em đã thu được gì từ chuyến đi (ngoài việc đến công ty)
+Cảm nghĩ của em về chuyến đi.
+
+Discussion on the Awareness Internship
+1. Introduction to the Internship
+2. What I Learned from Each Company Visit
+3. What I Gained Beyond Visiting Companies
+4. Thoughts on the Trip
+
+My awareness internship was in Ho Chi Minh City, where I visited TPS Software, TMA Solutions, and CMC Global. Before the trip, I did some research on these companies.
+
+At TPS Software, I saw a friendly work environment focused on AI, Big Data, and DevOps. I learned the importance of improving coding skills and writing a good CV.
+
+TMA Solutions works on international projects using AI and Cloud. They require good English skills and a fairly high GPA, which reminds me to improve both my language and technical abilities.
+
+CMC Global focuses on Cloud and AI. I realized how fast technology changes and I have to connstanly learn.
+Besides visiting companies, I also got meet many new friends and discovery many interesting thing in hcm city. The trip helped me better understand the IT industry and its future.
+
+5/ 
+Topic: các kỹ năng mềm cần thiết cho nghề IT
+Trình bày ít nhất 2 kỹ năng mềm mà sv cho là quan trọng (đối với quá trình học và phát triển nghề nghiệp của mình)
+- Tên kỹ năng, mô tả đặc điểm kỹ năng,…
+- Tại sao nó là các kỹ năng quan trọng đối với nghề IT
+- Cách thức chung để luyện tập, trang bị kỹ năng này và cách thức bản thân sẽ áp dụng để rèn luyện kỹ năng này.
+
+Nội dung chuẩn bị được viết vào file TXT, submit lên classroom (phần nộp bài) trước buổi học tiếp theo.
+(Nên in/viết lại ra giấy để sử dụng nếu cần trong quá trình thảo luận trên lớp)
+
+In Information Technology, soft skills are just as important as technical skills. Two essential soft skills are communication and problem-solving.
+Communication skills help me work better in teams and clearly present my ideas. To improve this skill, I will be more proactive in group discussions, actively contribute ideas, and not hesitate to ask questions when I don't fully understand an issue.
+Problem-solving skills help me debug errors during programming, they are an essential part of being a technology student. To enhance this skill, I will regularly practice coding challenges on platforms like LeetCode. When encountering bugs, I will try to solve them on my own first, and only seek help if necessary. I will also actively learn from online resources such as documentation and tutorials.
+These skills will support both my learning and my future career, so I will continue to work on improving them.
+
+
+
+6/
+Topic: các dịch vụ internet/website thường sử dụng
+Trình bày ít nhất 3 website/dịch vụ (trên nền tảng internet) KHÁC NHAU mà sv thường sử dụng hàng ngày
+- Tên website/dịch vụ (vd: dịch vụ tìm kiếm, dịch vụ lưu trữ, dịch vụ email, dịch vụ office,...)
+- Mục đích khi sử dụng dịch vụ đó
+- Lý do lựa chọn sử dụng dịch vụ đó (trong số nhiều nhà cung cấp khác) (nói dưới dạng so sánh các tính năng)
+Vd: nêu 3-4 lý do vì sao chọn duckduckgo thay vì google, bing, yahoo,…
+Nội dung chuẩn bị được viết vào file TXT, submit lên classroom (phần nộp bài) trước buổi học tiếp theo.
+
+
+I use YouTube, Google Drive, and Google Search every day because they play an important role in both my studies and personal life.
+YouTube is a platform I often visit to relax after school. Besides entertainment, I learn many useful things through tutorials,  and educational content from around the world. Compared to other video platforms like TikTok or Facebook Video, YouTube offers more diverse content, playlist features, and adjustable playback speed. 
+Google Drive is the tool I use to store documents. I can easily upload, access, and share files from any device, which greatly supports my learning. Compared to services like OneDrive or Dropbox, Google Drive offers more free storage.
+Google Search is an essential tool for my learning and research. It provides fast, accurate results that better match my search needs compared to other engines like Bing or Yahoo.
+Each of these services has its own strengths and supports my academic and personal needs effectively.
+7/ Topic: các trend công nghệ hiện nay
+Trình bày ít nhất 2 xu hướng công nghệ hiện nay mà sv nghĩ sẽ có ảnh hưởng sâu rộng đến cuộc sống (nói chung) hoặc nghề nghiệp của mình trong tương lai.
+Tên/mô tả xu hướng công nghệ
+Các thể hiện (hoặc ví dụ minh họa) của xu hướng công nghệ này trong thời điểm hiện tại.
+Dự đoán của xu hướng này trong tương lai (5-10-20 năm tới)
+và nó sẽ ảnh hưởng, tác động như thế nào đến cuộc sống/nghề nghiệp của mình trong tương lai.
+Cách mà bản thân sẽ ứng xử/thích ứng với xu hướng đó.
+
+Two major technology trends that will greatly impact our future are Artificial Intelligence (AI) and Cloud Computing.
+
+AI helps machines learn and make decisions like humans. It's used in tools like ChatGPT, Google Translate, and facial recognition apps. In the next 5–10 years, AI may help programmers write code or detect bugs. In 20 years, it might build complex systems almost on its own.
+
+Cloud Computing allows users to store and run apps online. I use Google Drive and GitHub, which run on the cloud. In the future, most software may be cloud-based, and we may no longer need to install apps.
+
+These trends will shape my job as a software engineer. AI will help me work faster, while Cloud Computing will change how I build and deploy software.
+
+To adapt, I plan to learn Python and AI tools like TensorFlow, and practice small AI projects. I’ll also study cloud platforms like AWS, Docker, and Kubernetes, and deploy my personal projects online.
+
+
+8/ Topic: lựa chọn mua  (hoặc tư vấn mua máy tính) theo mục đích cụ thể. 
+Bản thân hoặc bạn bè đang muốn mua/được tư vấn mua một máy tính với một ngân sách xác định (vd: 15tr, 25tr,...).
+Lựa chọn 2 mục đích sử dụng máy tính (vd: lập trình web, thiết kế đồ họa, lập trình AI, chơi game-giải trí, văn phòng,....)
+Với mỗi mục đích sử dụng, hãy trình bày các cách thức, tiêu chí để lựa chọn máy tính phù hợp (với mục đích, ngân sách...).
+Sau đó chọn 2 sản phẩm khác nhau để minh họa, so sánh và đưa ra các tư vấn để quyết định.
+
+
+I recently gave advice to two friends buying laptops for different needs.
+
+One has a 20 million VND budget for gaming. I recommended the MSI GF63, with Core i7, 16GB RAM, and GTX 1650. It runs games smoothly but has short battery life (3–5 hours).
+
+The other has a 10 million VND budget for office work. I suggested the Acer Aspire 5, with Ryzen 5, 8GB RAM, and SSD. It runs office tasks well and has good battery life (6–8 hours).
+
+Choosing the right laptop depends on your purpose. Gaming needs strong specs, while office tasks need stability and long battery life. Always consider your budget and usage carefully.
+
+9/Topic: công nghệ AI hiện đang phát triển rất mạnh mẽ trong mọi lĩnh vực, kể cả các lĩnh vực yêu cầu sự sáng tạo hay tư duy cao như nghề lập trình. Hãy thảo luận về cách bản thân thích ứng với sự phát triển của AI, về việc khai thác hiệu quả AI, về các phương pháp để hạn chế các mặt tiêu cực của AI.
+Nội dung chuẩn bị được viết vào file TXT, submit lên classroom (phần nộp bài) trước buổi học tiếp theo.
+(Nên in/viết lại ra giấy để sử dụng nếu cần trong quá trình thảo luận trên lớp)
+
+AI is developing rapidly, even in creative fields like programming. To adapt, I actively learn about AI through videos, courses, and documents. 
+I also use tools like ChatGPT and GitHub Copilot to support my coding and improve my problem-solving skills.
+To use AI effectively, I let it help me solve errors, understand new technologies like React or Spring Boot, and apply AI in my personal projects to enhance creativity and practicality.
+However, AI also has risks. I always double-check AI-generated results, use AI responsibly, protect information security, and maintain learning ethics. This helps me make the most of AI while still developing independent thinking and staying proactive in my learning and work.
+
+10/ Topic: làm việc từ xa trong lĩnh vực IT.
+- Mô tả hiểu biết/hình dung của bản thân về làm việc từ xa trong lĩnh vực IT.
+- Ưu điểm, nhược điểm của hình thức này.
+- Ý kiến cá nhân về việc này khi làm việc sau khi ra trường.
+Nội dung chuẩn bị được viết vào file TXT, submit lên classroom (phần nộp bài) trước buổi học tiếp theo.
+(Nên in/viết lại ra giấy để sử dụng nếu cần trong quá trình thảo luận trên lớp)
+
+
+
+Working remotely in the IT field is a form of work where programmers or technology experts can do their work from anywhere via the internet, without having to go to the office. 
+I envision this as a flexible environment where people communicate, manage projects and work in teams through online tools.
+The advantages of working remotely are saving time, travel costs, time activities and easy balance between work and life. 
+However, the disadvantages are being easily distracted, lacking direct interaction, difficult to build team spirit and sometimes feeling isolated.
+Personally, I am willing to try working remotely after graduation if the job is suitable. I think this is a common trend in the IT industry, and I am practicing my online working skills, self-study, time management to effectively adapt to this form in the future.
+
+11/ Topic: học tập suốt đời
+- Em có nghĩ việc học tập liên tục (suốt đời) là cần thiết nói chung, và đối với ngành CNTT nói riêng? Vì sao?
+- Bản thân đã, đang và sẽ học tập suốt đời như thế nào?
+- Làm cách nào để bản thân luôn duy trì được động lực học tập suốt đời?
+Nội dung chuẩn bị được viết vào file TXT, submit lên classroom (phần nộp bài) trước buổi học tiếp theo.
+(Nên in/viết lại ra giấy để sử dụng nếu cần trong quá trình thảo luận trên lớp)
+
+Lifelong learning in the IT industry is about constantly updating knowledge.
+In the technology field, where everything changes very quickly, I find this a very necessary habit because it helps me keep up with trends and not fall behind.
+Continuous learning also helps me adapt to new technology, increase job opportunities and improve problem-solving skills.
+Currently, I am practicing lifelong learning through studying at school combined with self-study on the Internet.
+I regularly read technology blogs, watch tutorial videos and do personal projects to expand my knowledge and practice practical skills.
+To stay motivated, I set small, easily achievable goals that create a sense of progress. I also join tech communities to connect with people who share my passion, which helps me stay inspired and keep learning.
+I believe that in the IT industry, learning never stops, and that is what makes this job interesting and worth pursuing.
